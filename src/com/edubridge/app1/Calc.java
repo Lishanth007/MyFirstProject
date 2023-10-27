@@ -6,6 +6,7 @@ public class Calc {
 	}
 	public static void findProduct(int num1, int num2) {
 		System.out.println(num1*num2);
+		//nothing
 	}
 	public static void findSum(int num1, int num2) {
 		System.out.println(num1+num2);
