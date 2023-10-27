@@ -5,6 +5,9 @@ public class Calc {
 		System.out.println(num * num);
 	}
 
+	public static void findSum(int num1, int num2) {
+		System.out.println(num1+num2);
+	}
 	public static void findCube(int num) {
 		System.out.println(num * num * num);
 	}
